@@ -15,6 +15,13 @@ public class DAY1 {
 
 		}
 		private void meth4() {
+
+		}
+		private void meth5() {
+			// TODO Auto-generated method stub
+
+		}
+		private void meth6() {
 			// TODO Auto-generated method stub
 
 		}
