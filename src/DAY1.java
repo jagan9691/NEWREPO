@@ -49,6 +49,10 @@ public class DAY1 {
 		// TODO Auto-generated method stub
 
 	}
+	private void meth() {
+		// TODO Auto-generated method stub
+
+	}
 	public static void main(String[] args) {
 
 		DAY1 r = new DAY1();
