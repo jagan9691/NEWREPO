@@ -43,6 +43,9 @@ System.out.println("RE");
 	private void car() {
 System.out.println("Rolls Royce");
 	}
+private void ship() {
+System.out.println("Titanic");
+}
 
 	public static void main(String[] args) {
 
