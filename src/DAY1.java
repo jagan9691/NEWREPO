@@ -38,12 +38,17 @@ public class DAY1 {
 
 	}
 	private void bike() {
-System.out.println("RE");
-	}
-	private void car() {
-System.out.println("Rolls Royce");
+		System.out.println("RE");
 	}
 
+	private void car() {
+		System.out.println("Rolls Royce");
+	}
+
+	private void meth11() {
+		// TODO Auto-generated method stub
+
+	}
 	public static void main(String[] args) {
 
 		DAY1 r = new DAY1();
