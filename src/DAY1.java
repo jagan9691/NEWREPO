@@ -45,7 +45,10 @@ public class DAY1 {
 		System.out.println("Rolls Royce");
 	}
 
-	
+	private void meth11() {
+		// TODO Auto-generated method stub
+
+	}
 	public static void main(String[] args) {
 
 		DAY1 r = new DAY1();
