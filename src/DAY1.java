@@ -37,11 +37,15 @@ public class DAY1 {
 		// TODO Auto-generated method stub
 
 	}
-	private void meth11() {
-		// TODO Auto-generated method stub
-
+	private void bike() {
+		System.out.println("RE");
 	}
 
+	private void car() {
+		System.out.println("Rolls Royce");
+	}
+
+	
 	public static void main(String[] args) {
 
 		DAY1 r = new DAY1();
